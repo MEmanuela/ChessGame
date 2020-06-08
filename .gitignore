@@ -2,7 +2,8 @@
 /workspace.xml
 *.xml
 *.iml
-*.idea
+.idea
+out
 
 # Compiled source #
 ###################
